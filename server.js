@@ -16,8 +16,8 @@ app.use(express.json());
 async function uploadToMega(localFilePath, remoteFileName) {
   return new Promise((resolve, reject) => {
     const storage = Storage({
-      email: MEGA_EMAIL,
-      password: MEGA_PASSWORD,
+      email: Bookmakerp@gmail.com,
+      password: Emmanuelrayan6.,
       keepalive: true,
     });
 
